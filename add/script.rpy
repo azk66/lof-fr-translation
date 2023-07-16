@@ -22,7 +22,7 @@ translate french start_363a4207:
 translate french start_72d3214a:
 
     # "And it doesn't even make sense, because it's a flash from the past."
-    "Et cela n'a même pas de sens, car c'est un flash du passé."
+    "Et ça n'a aucun sens, car c'est un flash du passé."
 
 # game/script.rpy:26
 translate french start_7d51ff8f:
